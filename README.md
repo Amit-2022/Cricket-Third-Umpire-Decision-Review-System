@@ -10,7 +10,7 @@ The Decision Review System (DRS) is a technology-based process for assisting the
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Cricket-Third-Umpire-Decision-Review-System.git
+https://github.com/Amit-2022/Cricket-Third-Umpire-Decision-Review-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -52,7 +52,7 @@ Note: update your video clip name inside config/config.yaml & keep your video cl
 
 
 ## Authors
-iNeuron Private limited
+Amit
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
