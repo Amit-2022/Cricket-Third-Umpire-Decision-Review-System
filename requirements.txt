@@ -1,0 +1,6 @@
+notebook
+PyYAML
+pillow
+opencv-python
+imutils
+-e .
